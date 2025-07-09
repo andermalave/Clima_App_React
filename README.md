@@ -1,4 +1,4 @@
-¡Claro que sí! Aquí tienes el README para tu repositorio de la aplicación del clima, redactado en Markdown para que GitHub lo interprete perfectamente.
+
 
 ☀️ App del Clima - Mi Primera App en React
 ¡Hola! Este repositorio contiene mi primera aplicación construida con React, un proyecto de práctica desarrollado como parte de un curso de programación. El objetivo principal fue consolidar conceptos fundamentales de React y la interacción con APIs externas.
